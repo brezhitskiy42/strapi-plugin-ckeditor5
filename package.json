@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "@ckeditor/ckeditor5-react": "^3.0.1",
-    "ckeditor5-build-strapi-wysiwyg": "^1.5.0"
+    "ckeditor5-build-strapi-wysiwyg": "git+https://github.com/brezhitskiy42/ckeditor5-build-strapi-wysiwyg.git"
   },
   "author": {
     "name": "Pavel Roslovets",
